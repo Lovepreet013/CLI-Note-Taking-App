@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "coding",
+        " project"
+      ],
+      "content": "Complete the CLI Note Taking App",
+      "id": 1712037486434
+    },
+    {
+      "tags": [
+        "coding",
+        " git"
+      ],
+      "content": "Upload the project to git",
+      "id": 1712037517287
+    },
+    {
+      "tags": [],
+      "content": "Remember to have lunch",
+      "id": 1712037560838
+    }
+  ]
+}
